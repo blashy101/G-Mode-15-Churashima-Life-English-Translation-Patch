@@ -18,19 +18,33 @@ Download GMode15SteamEnglish.zip, navigate to C:\Program Files (x86)\Steam\steam
 
 okinawa_Data\level0
 okinawa_Data\Managed\Assembly-CSharp.dll
+
 okinawa_Data\StreamingAssets\file\binary
+
 okinawa_Data\StreamingAssets\file\event
+
 okinawa_Data\StreamingAssets\file\image
+
 okinawa_Data\StreamingAssets\file\image_scene
+
 okinawa_Data\StreamingAssets\file\str
+
 okinawa_Data\StreamingAssets\prefab\appliarchive
+
 okinawa_Data\StreamingAssets\prefab\characterinput
+
 okinawa_Data\StreamingAssets\prefab\debugmenu
+
 okinawa_Data\StreamingAssets\prefab\dialogcommon
+
 okinawa_Data\StreamingAssets\prefab\howtoplay
+
 okinawa_Data\StreamingAssets\prefab\ranking
+
 okinawa_Data\StreamingAssets\prefab\setting
+
 okinawa_Data\StreamingAssets\prefab\title
+
 okinawa_Data\StreamingAssets\prefab\window
 
 Otherwise, copy "okinawa_Data" into the same directory as okinawa.exe and overwrite all files when prompted. 
