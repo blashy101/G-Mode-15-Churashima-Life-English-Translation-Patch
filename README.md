@@ -1,0 +1,1 @@
+# G-Mode-15-Churashima-Life-English-Translation-Patch
