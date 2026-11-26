@@ -17,6 +17,7 @@ Steam Installation:
 Download GMode15SteamEnglish.zip, navigate to C:\Program Files (x86)\Steam\steamapps\common\okinawa (default install location), and back up the following files, if you wish:
 
 okinawa_Data\level0
+
 okinawa_Data\Managed\Assembly-CSharp.dll
 
 okinawa_Data\StreamingAssets\file\binary
